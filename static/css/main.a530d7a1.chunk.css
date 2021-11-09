@@ -1,0 +1,2 @@
+:root{background-color:#fffacd}.App,:root{display:flex;justify-content:center;align-items:center}.App{flex-direction:column;height:90vh}.App__buttons{display:flex;grid-gap:10px;gap:10px}.App__button{width:100px;height:30px;border-radius:10px;transition:background-color .5s,transform .5s}.App__button:hover{background-color:#e9967a;cursor:pointer;transform:scale(1.1)}
+/*# sourceMappingURL=main.a530d7a1.chunk.css.map */
